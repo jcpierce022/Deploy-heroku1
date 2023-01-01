@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "config": "^1.30.0",
+    "config": "^3.3.8",
     "express": "^4.16.3",
     "joi": "^13.3.0",
     "mongoose": "^5.1.3",
